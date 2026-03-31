@@ -1,4 +1,4 @@
-# UniCoRN
+# UniCorN
 
 ![Fig1](./Fig1.png)
 <!-- <img src="./Fig1.png" alt="Fig1" width="600"> -->
